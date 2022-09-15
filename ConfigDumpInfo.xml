@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.РегистрНакопления1" id="f578fbd4-5c6a-4f8d-b52b-ea5752f4cafc" configVersion="cae0d773da03b64e8f72f85cf552e1cd00000000">
+			<Metadata name="AccumulationRegister.РегистрНакопления1.Resource.Ресурс1" id="2876c9fb-4925-41ac-897c-278650b772da"/>
+			<Metadata name="AccumulationRegister.РегистрНакопления1.Dimension.Измерение1" id="864345f6-f066-487a-b425-147a1781262d"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.РегистрНакопления1.Aggregates" id="f578fbd4-5c6a-4f8d-b52b-ea5752f4cafc.3" configVersion="58c10fdabf82ad46b865946194cce3e700000000"/>
+		<Metadata name="AccumulationRegister.РегистрНакопления1.Help" id="f578fbd4-5c6a-4f8d-b52b-ea5752f4cafc.0" configVersion="ae53c797f7c3434f8b161758cc35fac100000000"/>
+		<Metadata name="AccumulationRegister.РегистрНакопления1.ManagerModule" id="f578fbd4-5c6a-4f8d-b52b-ea5752f4cafc.2" configVersion="2edd1d064581ab4c9b5b4371b183cdd200000000"/>
+		<Metadata name="AccumulationRegister.РегистрНакопления1.RecordSetModule" id="f578fbd4-5c6a-4f8d-b52b-ea5752f4cafc.1" configVersion="b16092e982269143a8860ab71cc0484f00000000"/>
+		<Metadata name="Catalog.Справочник1" id="79e9c1fd-5029-4b6a-a7c6-b1e7aab96e2c" configVersion="ae7d116f6873ef469162b75c5b8f2e6600000000"/>
+		<Metadata name="Catalog.Справочник1.Help" id="79e9c1fd-5029-4b6a-a7c6-b1e7aab96e2c.1" configVersion="2eb4325dca85134d9d5768db5d3fcc0000000000"/>
+		<Metadata name="Catalog.Справочник1.ManagerModule" id="79e9c1fd-5029-4b6a-a7c6-b1e7aab96e2c.3" configVersion="517e2a95c67360428bcfb444cf9a0b4e00000000"/>
+		<Metadata name="Catalog.Справочник1.ObjectModule" id="79e9c1fd-5029-4b6a-a7c6-b1e7aab96e2c.0" configVersion="72e8cc2d3dfb24468d752e13ab0ba6a200000000"/>
+		<Metadata name="Catalog.Справочник1.Predefined" id="79e9c1fd-5029-4b6a-a7c6-b1e7aab96e2c.1c" configVersion="f28a53658fbecb49ab373ab4437b4ad900000000"/>
+		<Metadata name="CommonModule.ПереставитьГраницуВФоне" id="a3329c0b-4aec-4fcb-b3e9-6c67d35887fe" configVersion="eafc06f53374cb4dbf989c7973e597a400000000"/>
+		<Metadata name="CommonModule.ПереставитьГраницуВФоне.Module" id="a3329c0b-4aec-4fcb-b3e9-6c67d35887fe.0" configVersion="a53771306171434fa99bbce32af2e36800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c0c6ca0a-80a8-4b0f-83b4-4e9730618b00" configVersion="2f15dfb51f7c6741bf8b80adc2161aba00000000"/>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест" id="937b6dce-38e4-41f4-885c-2abd32b83c7b" configVersion="97066e6c5fcd394297c2ec5bdc3514af00000000">
+			<Metadata name="DataProcessor.ГенерацияДанныхИТест.Attribute.Дата" id="67a209b6-f571-476d-93d9-478badef826c"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест.Form.Форма" id="c528d880-397c-4b95-adc5-d5a2849ff12f" configVersion="c546769170a4664288f52bd73385a43c00000000"/>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест.Form.Форма.Form" id="c528d880-397c-4b95-adc5-d5a2849ff12f.0" configVersion="07b5fdc9aec8f546a64d261a952a9fd200000000"/>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест.Form.Форма.Help" id="c528d880-397c-4b95-adc5-d5a2849ff12f.1" configVersion="96d3a36f3f803942a60e630cb0b5188700000000"/>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест.Help" id="937b6dce-38e4-41f4-885c-2abd32b83c7b.1" configVersion="3ea8c3de37f6454eae2d433decd8efbf00000000"/>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест.ManagerModule" id="937b6dce-38e4-41f4-885c-2abd32b83c7b.2" configVersion="30949f373adcb74ea6540075c63b91e000000000"/>
+		<Metadata name="DataProcessor.ГенерацияДанныхИТест.ObjectModule" id="937b6dce-38e4-41f4-885c-2abd32b83c7b.0" configVersion="2cc47970a21f464f873b8f1a7fd3427600000000"/>
+		<Metadata name="Document.Документ1" id="62c1a186-c044-4a40-b365-05fb050d21c2" configVersion="473f09fed8bc9945a0d2572898344d5400000000"/>
+		<Metadata name="Document.Документ1.Help" id="62c1a186-c044-4a40-b365-05fb050d21c2.1" configVersion="8d1b0090330c50499f9764338edcbecc00000000"/>
+		<Metadata name="Document.Документ1.ManagerModule" id="62c1a186-c044-4a40-b365-05fb050d21c2.2" configVersion="af3e3486be564c49a8fc61fd98a85ce900000000"/>
+		<Metadata name="Document.Документ1.ObjectModule" id="62c1a186-c044-4a40-b365-05fb050d21c2.0" configVersion="5140e5f14fc9fc4c8ecde078900c085d00000000"/>
+		<Metadata name="Language.Русский" id="4c68ef06-20fe-4a92-acbb-1e0512b6d790" configVersion="87930df596e9c04a899c034161db934a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
